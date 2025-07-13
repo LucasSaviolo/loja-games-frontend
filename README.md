@@ -63,4 +63,4 @@ public/
 
 ## 📄 Licença
 
-- Este projeto está licenciado sob a MIT License. Veja o arquivo LICENSE para mais detalhes.
+- Este projeto está licenciado sob a GNU General Public License (GPL). Veja o arquivo LICENSE para mais detalhes.
