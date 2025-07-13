@@ -42,7 +42,7 @@ A aplicação estará disponível em: http://localhost:3000
 
 ## 📌 Observações
 
-- O front-end consome a API disponível no repositório backend: loja-games-backend
+- O front-end consome a API disponível no repositório backend: [loja-games-backend](https://github.com/LucasSaviolo/loja-games-backend)
 - Mantenha o backend rodando para que o front funcione corretamente.
 
 ## 📁 Estrutura de pastas (exemplo)
